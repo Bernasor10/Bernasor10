@@ -30,6 +30,9 @@ As a developer, I am constantly exploring various tools and technologies to enha
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bernasor10&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernasor10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# 📈 GitHub Activity Graph
+![Bernasor10's GitHub contributions](https://ghchart.rshah.org/Bernasor10)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bernasor10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -38,6 +41,3 @@ As a developer, I am constantly exploring various tools and technologies to enha
 
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Bernasor10&theme=onedark)
-
-# 📈 GitHub Activity Graph
-![Bernasor10's GitHub contributions](https://ghchart.rshah.org/Bernasor10)
