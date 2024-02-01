@@ -3,8 +3,8 @@
 I'm a developer who loves creating interactive and dynamic web and mobile applications. I'm always on the lookout for opportunities to learn new things and enhance my skills.
 
 ## 🌐 Socials
-- Discord: https://discord.gg/potato3062
-- Facebook: https://www.facebook.com/maximuslincoln010/
+- Discord: !Discord potato3062
+- !Facebook
 
 ## 💻 Tech Stack
 - **Programming Languages**: C++, Java, JavaScript, Python, PHP
