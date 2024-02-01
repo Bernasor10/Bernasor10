@@ -41,6 +41,3 @@ As a developer, I am constantly exploring various tools and technologies to enha
 
 # 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Bernasor10&color=blueviolet)
-
-# 🐍 Contribution Snake
-![Snake animation](https://github.com/Bernasor10/Bernasor10/blob/output/github-contribution-grid-snake.svg)
