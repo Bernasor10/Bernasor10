@@ -34,7 +34,7 @@ As a developer, I am constantly exploring various tools and technologies to enha
 [![](https://visitcount.itsvg.in/api?id=Bernasor10&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 📈 GitHub Activity Graph
-![Bernasor10's GitHub contributions](https://ghchart.rshah.org/Bernasor10)
+![Bernasor10's contribution snake graph](https://github.com/Bernasor10/Bernasor10/blob/output/github-contribution-grid-snake.svg)
 
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Bernasor10&theme=onedark)
