@@ -1,3 +1,6 @@
+# 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Bernasor10&color=blueviolet)
+
 # 🚀 About Me:
 I'm a developer with a keen interest in both frontend and backend development. My passion lies in creating engaging, interactive web and mobile applications. Continuously seeking out new challenges and technologies, I'm dedicated to enhancing my skills and bringing innovative ideas to life.
 
@@ -33,12 +36,8 @@ As a developer, I am constantly exploring various tools and technologies to enha
 ---
 [![](https://visitcount.itsvg.in/api?id=Bernasor10&icon=0&color=1)](https://visitcount.itsvg.in)
 
-# 📈 GitHub Activity Graph
-![Bernasor10's Isometric Contributions Graph](https://github.com/Bernasor10/github-activity-readme/blob/main/generated/overview.svg)
-![Bernasor10's Languages Summary](https://github.com/Bernasor10/github-activity-readme/blob/main/generated/languages.svg)
-
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Bernasor10&theme=onedark)
 
-# 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Bernasor10&color=blueviolet)
+# 📈 GitHub Activity Graph
+![Bernasor10's GitHub contributions](https://ghchart.rshah.org/Bernasor10)
