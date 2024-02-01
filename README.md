@@ -32,3 +32,7 @@ As a developer, I am constantly exploring various tools and technologies to enha
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bernasor10&icon=0&color=1)](https://visitcount.itsvg.in)
+
+# ⏱️ Wakatime Week Stats
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bernasor10)
+
