@@ -1,11 +1,11 @@
-# 💫 About Me:
-I'm a passionate developer who specializes in frontend and backend web development. I love building interactive and dynamic web and mobile applications, and I'm always eager to learn new technologies to improve my skills.
+# 🚀 About Me:
+I'm a developer with a keen interest in both frontend and backend development. My passion lies in creating engaging, interactive web and mobile applications. Continuously seeking out new challenges and technologies, I'm dedicated to enhancing my skills and bringing innovative ideas to life.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/potato3062) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/maximuslincoln010/)
 
-# 💻 Tech Stack:
-Here are some of the technologies and tools I work with:
+# 💻 Tech Stack
+As a developer, I am constantly exploring various tools and technologies to enhance my projects. Below is a list of programming languages, frameworks, and tools that I frequently use in my development process. My skill set is always evolving as I delve into new areas and refine my expertise.
 
 ## Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
