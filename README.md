@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Bernasor10/Bernasor10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who loves creating interactive and dynamic web and mobile applications. I'm always on the lookout for opportunities to learn new things and enhance my skills.
 
-Here are some ideas to get you started:
+## 🌐 Socials
+- Discord: https://discord.gg/potato3062
+- Facebook: https://www.facebook.com/maximuslincoln010/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Programming Languages**: C++, Java, JavaScript, Python, PHP
+- **Web Development**: HTML5, CSS3
+- **Databases**: MySQL, PostgreSQL
+- **Frameworks & Libraries**: Numpy, Pandas
+- **Designing and Multimedia Tools**: Adobe Photoshop, Adobe Premiere Pro, Figma, Canva
+
+!My GitHub stats
+
+!Top Langs
