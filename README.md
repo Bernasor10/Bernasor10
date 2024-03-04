@@ -36,7 +36,14 @@ As a developer, I am constantly exploring various tools and technologies to enha
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ## Frameworks & Libraries
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) https://camo.githubusercontent.com/7669c459d35f6047b41a4462e851c560f4d11a23ac6c726a6600300f3b82cd6f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646569676e697465722d4546343232333f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646569676e69746572266c6f676f436f6c6f723d7768697465
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+## Frameworks & Libraries
+
+!NumPy 
+!Pandas
+!CodeIgniter
+
 
 ## Designing & Multimedia Tools
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
