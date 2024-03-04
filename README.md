@@ -53,7 +53,6 @@ As a developer, I am constantly exploring various tools and technologies to enha
 3.) ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bernasor10&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bernasor10&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernasor10&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
